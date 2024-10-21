@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm passionate about solving problems creatively. Using my web development skills, I aim to make technology more accessible to everyone.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -38,7 +38,7 @@ const skillsList = ["Html", "Css", "React", "Express", "Mongodb", "Nodejs"];
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm passionate about solving problems creatively. Using my web development skills, I aim to make technology more accessible to everyone.";
 
 const About = () => {
   return (

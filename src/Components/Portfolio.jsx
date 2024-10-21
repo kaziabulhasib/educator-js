@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "TalkRoute",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Talkroute is a community forum where users can post, read, and comment on various topics. Upvote and downvote features highlight popular content, while the user dashboard allows adding posts and tracking contributions. We also offer premium features through an affordable monthly subscription for an enhanced experience.",
+    url: "https://talk-route.web.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "BistroBoss",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "BistroBoss is a food ordering website with user and admin dashboards. Users can browse menus, place orders, and make secure payments, while admins efficiently manage orders, menus, and payments. With an integrated payment system, BistroBoss offers a complete online food ordering solution",
+    url: "https://bistro-boss-500ab.web.app/",
   },
   {
-    title: "My Resume Site",
+    title: "Brusify",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Brusify is an art & craft store website where users can explore paintings from talented artists worldwide. Registered users have the ability to add their own paintings or purchase artwork directly from the platform.",
+    url: "https://asg10-type02.web.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "PrimesquareProperty",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "PrimesquareProperty is a USA-based real estate website specializing in property sales. Users can browse and purchase from an extensive collection of properties, conveniently categorized into various subcategories to enhance user experience.",
+    url: "https://assignment9-realestate.netlify.app/",
   },
 ];
 
